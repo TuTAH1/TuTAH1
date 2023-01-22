@@ -1,6 +1,6 @@
 # donate-info
-repository of just an readme of how to donate me
-#Crypto:
+
+## Crypto:
 | Coin | address|
 |------|--------|
 |BTC | bc1q6j0wy97ppe0l7xjxkerrpq3p33q25nz6ehhkrn|
@@ -10,3 +10,7 @@ repository of just an readme of how to donate me
 |SOL | HdigRtG2nznPS8qn1euk4XEPZ3iq32ExmAW6x3Q4buxv|
 |DOGE | DJSTMPHPKmFxYasak9LoF45udNnyQ3Nart|
 |XRP | rK1x6DCJQtMEeCkVDbw5xAdsQLAKEr1HTG|
+
+<a href="https://nowpayments.io/donation/titan" target="_blank">
+ <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
+</a>
