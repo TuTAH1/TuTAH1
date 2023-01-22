@@ -1,14 +1,19 @@
 # my other works
-
+  
+<ul style="margin: 0; padding: 4px;">
+<li style="display: inline;  margin-right: 5px;  border: 1px solid #000;  padding: 3px;">
 <a href="https://greasyfork.org/ru/users/303426-%D1%82%D0%B8%D1%82%D0%B0%D0%BD"  target="_blank">
  <img src="https://greasyfork.org/vite/assets/blacklogo96.e0c2c761.png" alt="GreasyFork" width="100">
  <p class="name">GreasyFork</p>
 </a>
-
+ </li>
+ <li style="display: inline;  margin-right: 5px;  border: 1px solid #000;  padding: 3px;">
 <a href="https://userstyles.world/user/tutah1" target="_blank">
  <img src="https://i.ibb.co/bQZs20n/Userstyles-World.png" alt="Userstyles.World" width="100">
  <p class="name">Userstyles.World</p>
 </a>
+  </li>
+ </ul>
 
 # donate
 
