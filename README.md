@@ -2,7 +2,7 @@
   
 <ul style="margin: 0; padding: 4px;">
 <li style="display: inline;  margin-right: 5px;  border: 1px solid #000;  padding: 3px;">
-  <h3>My UserScrypts</h3>
+  <h3>My UserScripts</h3>
 <a href="https://greasyfork.org/ru/users/303426-%D1%82%D0%B8%D1%82%D0%B0%D0%BD"  target="_blank">
  <img src="https://greasyfork.org/vite/assets/blacklogo96.e0c2c761.png" alt="GreasyFork" width="100">
  <p class="name">GreasyFork</p>
