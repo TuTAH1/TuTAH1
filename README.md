@@ -33,3 +33,10 @@
 <a href="https://nowpayments.io/donation/titan" target="_blank">
  <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
 </a>
+
+<h3>PC specs, games and about me</h3>
+<a href="https://steamcommunity.com/id/TuTAH_1/" target="_blank">
+ <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1af6729b-3750-4e72-89a4-b5bc4d9f11fd/dai62cg-cdef7bbe-8b37-4a1a-91b4-37105b260dd7.png/v1/fill/w_256,h_256/steam_icon_by_tutah1_dai62cg-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjU2IiwicGF0aCI6IlwvZlwvMWFmNjcyOWItMzc1MC00ZTcyLTg5YTQtYjViYzRkOWYxMWZkXC9kYWk2MmNnLWNkZWY3YmJlLThiMzctNGExYS05MWI0LTM3MTA1YjI2MGRkNy5wbmciLCJ3aWR0aCI6Ijw9MjU2In1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.sPqNvCVEDGaebtCda-xm3dZnQDm7Sfr3Fm_FCSnQL6E" alt="Steam" width="100">
+ <p class="name">Steam</p>
+</a>
+
