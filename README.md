@@ -40,7 +40,7 @@
  <p class="name">Steam</p>
 </a>
 
-<a href="https://discord.com/users/282775588257792005/">
-   <img src="https://github.com/TuTAH1/TuTAH1/assets/15982179/91cd6b66-cca7-4385-b9be-39b3761bdb09" alt="Discord" width="100">
-<p class="name">Discord</p>
+<a href="https://discord.com/users/282775588257792005/"  target="_blank">
+  <img src="https://github.com/TuTAH1/TuTAH1/assets/15982179/91cd6b66-cca7-4385-b9be-39b3761bdb09" alt="Discord" width="100">
+  <p class="name">Discord</p>
 </a>
