@@ -30,9 +30,20 @@
 |DOGE | DJSTMPHPKmFxYasak9LoF45udNnyQ3Nart|
 |XRP | rK1x6DCJQtMEeCkVDbw5xAdsQLAKEr1HTG|
 
+(you can click on any images below)
+
 <a href="https://nowpayments.io/donation/titan" target="_blank">
  <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
 </a>
+
+
+## Fiat
+
+<a href="https://boosty.to/teetaan/donate" target="_blank">
+ <img src="https://github.com/TuTAH1/TuTAH1/assets/15982179/c5ba02a4-71c3-4add-878f-40f7218c39f9" height="40" alt="Boosty"> </br>
+ <img src="https://github.com/TuTAH1/TuTAH1/assets/15982179/cd351482-d017-4d00-8714-cf1e9bb18bd7" alt="Boosty QR">
+</a>
+
 
 # Contacts 
 <a href="https://steamcommunity.com/id/TuTAH_1/" target="_blank">
