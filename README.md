@@ -1,4 +1,4 @@
-# my other works
+# My other works
   
 <ul style="margin: 0; padding: 4px;">
 <li style="display: inline;  margin-right: 5px;  border: 1px solid #000;  padding: 3px;">
@@ -17,7 +17,9 @@
   </li>
  </ul>
 
-# donate
+# Donate
+
+Like my programs? Feel free to donate $0.1
 
 ## Crypto
 | Coin | address|
