@@ -47,6 +47,11 @@ Like my programs? Feel free to donate $0.1
   <p>(clickable)</p>
 </a>
 
+<a href="https://new.donatepay.ru/@1350684" target="_blank">
+ <img src="https://github.com/user-attachments/assets/7a1ccfb6-6ba9-4fdd-a908-daa7e9a5fc3b" height="40" alt="DonatePay"> </br>
+ <img src="https://github.com/user-attachments/assets/a64b09cc-2342-45c5-b8ce-1905325399d0" alt="DonatePay QR">
+  <p>(clickable)</p>
+</a>
 
 # Contacts 
 <a href="https://steamcommunity.com/id/TuTAH_1/" target="_blank">
