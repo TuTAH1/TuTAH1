@@ -25,10 +25,8 @@ Like my programs? Feel free to donate $0.1
 | Coin | address|
 |------|--------|
 |BTC | bc1q6j0wy97ppe0l7xjxkerrpq3p33q25nz6ehhkrn|
-|USDT (TRC20) | TSuUD29BWvNw1JN5wLZtZcbBQykHK33dDm|
-|USDT (TON) | UQAyOr1i2w7X6Lwpr1qhFxovNpsN0X0WAu43Yj2oeFHEt4tX|
-|ETH (BEP20) | 0x903F9e329C603a62f23d09a2f0CD48a1F013C725|
-|SHIB | 0x903F9e329C603a62f23d09a2f0CD48a1F013C725|
+|USDT (Tron) | TSuUD29BWvNw1JN5wLZtZcbBQykHK33dDm|
+|BNB Smart Chain | 0x903F9e329C603a62f23d09a2f0CD48a1F013C725|
 |SOL | HdigRtG2nznPS8qn1euk4XEPZ3iq32ExmAW6x3Q4buxv|
 |DOGE | DJSTMPHPKmFxYasak9LoF45udNnyQ3Nart|
 |XRP | rK1x6DCJQtMEeCkVDbw5xAdsQLAKEr1HTG|
